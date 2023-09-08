@@ -1,0 +1,55 @@
+{
+  "Akshata": {
+    "name": "Akshata",
+    "relations": [
+      "daughter",
+      "daughter"
+    ]
+  },
+  "Amit": {
+    "name": "Amit",
+    "relations": [
+      "father",
+      "son",
+      "son",
+      "son"
+    ]
+  },
+  "Amit Dhakad": {
+    "name": "Amit Dhakad",
+    "relations": [
+      "father",
+      "son",
+      "son",
+      "father",
+      "father",
+      "as",
+      "wife",
+      "father",
+      "father"
+    ]
+  },
+  "Ankita": {
+    "name": "Ankita",
+    "relations": [
+      "daughter",
+      "wife"
+    ]
+  },
+  "KK": {
+    "name": "KK",
+    "relations": [
+      "parent"
+    ]
+  },
+  "KK Dhakad": {
+    "name": "KK Dhakad",
+    "relations": [
+      "parent",
+      "parent",
+      "parent",
+      "as",
+      "as"
+    ]
+  }
+}
